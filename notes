@@ -3,3 +3,7 @@ Ortam bilgisi alma;
 
 environment variables files name
     .env.development || .env.production
+    || prefix must REACT_APP
+   in js file # process.env.REACT_APP_API_URL
+   in html file # %process.env.REACT_APP_API_URL%
+
