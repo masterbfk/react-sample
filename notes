@@ -1,0 +1,5 @@
+Ortam bilgisi alma;
+# process.env.NODE_ENV ==='production'
+
+environment variables files name
+    .env.development || .env.production
